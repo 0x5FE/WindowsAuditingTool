@@ -25,6 +25,9 @@
 - The script will display the results of the security audit checks in the terminal.
 
 
+![WDtest](https://github.com/0x5FE/WindowsAuditingTool/assets/65371336/6dcd5442-26cc-4278-b636-41521ae7827d)
+
+
 
 # Problem-Solving Solutions:
 

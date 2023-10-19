@@ -65,3 +65,7 @@ After running these commands, restart the ***WMI service*** using the Restart-Se
 # Note
 
 Remember to always use the tool responsibly and ethically, ensuring that you have proper authorization and adhere to legal and ethical guidelines when performing security assessments or tests.
+
+# Disclaimer: 
+
+The creator are not responsible for any misuse or illegal activities performed using this script. This script is designed for testing purposes.

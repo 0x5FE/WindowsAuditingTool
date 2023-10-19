@@ -25,6 +25,7 @@
 - The script will display the results of the security audit checks in the terminal.
 
 
+
 # Problem-Solving Solutions:
 
 
